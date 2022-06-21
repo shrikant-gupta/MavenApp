@@ -13,9 +13,7 @@
     <description>Sample Vulnerability Project with complex pom and dependency structure</description>
     <packaging>pom</packaging>
     <modules>
-        <module>a</module>
         <module>c</module>
-        <module>d</module>
         <module>b</module>
     </modules>
     <dependencies>
